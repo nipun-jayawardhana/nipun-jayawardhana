@@ -1,3 +1,7 @@
+<div align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=FEFEFE&center=true&random=false&width=540&lines=Hi+there!+I'm+Renan;Nice+to+meet+you!;Front-end+Developer" alt="Typing SVG" /></a> 
+</div>
+
 # 💫 About Me:
 👋 Hi, I'm Nipun, a passionate Software Engineering Undergraduate at NSBM Green University. I'm eager to explore full-stack development, with a focus on frontend and backend technologies.<br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<br><br>📫 Let's connect: linkedin.com/in/nipun-jayawardhana-4b8997247<br><br>
 
