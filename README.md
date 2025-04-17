@@ -27,5 +27,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/nipun-jayawardhana/nipun-jayawardhana/blob/output/github-contribution-grid-snake.svg)
+##SNAKE EATING
+![snake gif](https://github.com/nipun-jayawardhana/nipun-jayawardhana/blob/output/github-snake-dark.svg)
 
