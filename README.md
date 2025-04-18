@@ -1,6 +1,11 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /><br>
+
+
+
+
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="75">&nbsp; 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Nipun;Nice+to+meet+you!;Fullstack+Developer" alt="Typing SVG"/></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5005&pause=1000&color=33FFF5&center=true&random=false&width=540&lines=Hi+there!+I'm+Nipun;Nice+to+meet+you!;Fullstack+Developer" alt="Typing SVG"/>                                                </a><img src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400">
 </div>
 
 
@@ -9,7 +14,7 @@
 
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50">&nbsp; About Me:<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1020">
-👋 Hi, I'm Nipun, a passionate Software Engineering Undergraduate at NSBM Green University. I'm eager to explore full-stack development, with a focus on frontend and backend technologies.<br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<br><br>📫 Let's connect: linkedin.com/in/nipun-jayawardhana-4b8997247<br><br>
+<b>👋 Hi, I'm Nipun, a passionate Software Engineering Undergraduate at NSBM Green University. I'm eager to explore full-stack development, with a focus on frontend and backend technologies.<br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<b><br><br>
 
 
  # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="50">&nbsp; Socials: 
@@ -78,8 +83,13 @@
 
 
 
-<h3 align="right">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Nipun Jayawardhana"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nipun Jayawardhana" /></a></p><br><br>
+
+<p align="center"><a href="https://www.buymeacoffee.com/Nipun Jayawardhana"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nipun Jayawardhana" /></a></p><br><br>
+
+<div>
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200" align="left">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400" align="right">
+</div>
 
 
 
