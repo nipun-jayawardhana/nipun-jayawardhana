@@ -6,11 +6,27 @@
 👋 Hi, I'm Nipun, a passionate Software Engineering Undergraduate at NSBM Green University. I'm eager to explore full-stack development, with a focus on frontend and backend technologies.<br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<br><br>📫 Let's connect: linkedin.com/in/nipun-jayawardhana-4b8997247<br><br>
 
 
-## 🌐 Socials:
+ ## 🌐 Socials:    
+<div style="display: flex; gap: 10px; align-items: center;">
+<a href="https://www.linkedin.com/Nipun Jayawardhana" target="_blank">
+  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2"/>
+</a>
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nipun.madhushanka1999@gmail.com" target="_blank">
+<img width="100" height="100" src="https://img.icons8.com/arcade/100/new-post--v1.png" alt="new-post--v1"/>
+</a>
 <a href="https://www.facebook.com/Nipun Jayawardhana" target="_blank">
   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/facebook-logo.png" alt="facebook-logo"/>
 </a>
+  <a href="https://www.instagram.com/Nipun Jayawardhana" target="_blank">
+  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/>
+</a>
 
+
+
+
+  
+</div>
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nipun Jayawardhana ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nipun Jayawardhana ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nipun Jayawardhana) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nipun Madhushanka) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nipun_jayawardhana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCfOBFQuknyEy183Gt4R_Qig) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Nipun Madhushanka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nipun.madhushanka1999@gmail.com) 
