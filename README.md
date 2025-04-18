@@ -14,7 +14,7 @@
 
 
 # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="50">&nbsp; About Me:<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1020">
-<b>👋 Hi, I'm Nipun, a passionate Software Engineering Undergraduate at NSBM Green University. I'm eager to explore full-stack development, with a focus on frontend and backend technologies.<br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<b><br><br>
+<b>👋 Hi, I'm Nipun, a passionate <mark>Software Engineering Undergraduate at NSBM Green University</mark>. I'm eager to explore full-stack development, with a focus on frontend and backend technologies.<br><br>🚀 Currently, I'm sharpening my skills in web development, database management, and data analysis, while also working on projects to strengthen my expertise.<br><br>💡 I love solving problems, learning new technologies, and building efficient solutions. Check out my repositories and feel free to collaborate!<b><br><br>
 
 
  # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="50">&nbsp; Socials: 
