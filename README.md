@@ -18,18 +18,23 @@
 <a href="https://www.facebook.com/Nipun Jayawardhana" target="_blank">
   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/facebook-logo.png" alt="facebook-logo"/>
 </a>
-  <a href="https://www.instagram.com/Nipun Jayawardhana" target="_blank">
+<a href="https://stackoverflow.com/Nipun Jayawardhana" target="_blank">
+ <img width="85" height="85" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo"/>
+</a>
+  
+<a href="https://www.instagram.com/Nipun Jayawardhana" target="_blank">
   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/>
 </a>
-
-
-
-
-  
+</a>
+<a href="https://www.youtube.com/channel/UCfOBFQuknyEy183Gt4R_Qig" target="_blank">
+  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube-play"/>
+</a>
+<a href="https://www.pinterest.com/nipunmadhushanka1999/" target="_blank">
+  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/pinterest.png" alt="pinterest"/>
+</a>
 </div>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nipun Jayawardhana ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nipun Jayawardhana ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nipun Jayawardhana) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nipun Madhushanka) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@nipun_jayawardhana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCfOBFQuknyEy183Gt4R_Qig) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Nipun Madhushanka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nipun.madhushanka1999@gmail.com) 
 
 # 💻 Tech Stack:
 
