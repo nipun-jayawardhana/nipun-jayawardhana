@@ -19,30 +19,30 @@
 
  # <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/bba47def-6b97-4489-9433-fbff5b588031" width="50">&nbsp; Socials: 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1020">
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
 <a href="https://www.linkedin.com/Nipun Jayawardhana" target="_blank">
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2"/>
+  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/linkedin--v2.png" alt="linkedin--v2"/>
 </a>
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nipun.madhushanka1999@gmail.com" target="_blank">
-<img width="100" height="100" src="https://img.icons8.com/arcade/100/new-post--v1.png" alt="new-post--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/arcade/100/new-post--v1.png" alt="new-post--v1"/>
 </a>
 <a href="https://www.facebook.com/Nipun Jayawardhana" target="_blank">
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/facebook-logo.png" alt="facebook-logo"/>
+  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/facebook-logo.png" alt="facebook-logo"/>
 </a>
 <a href="https://stackoverflow.com/Nipun Jayawardhana" target="_blank">
- <img width="85" height="85" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo"/>
+ <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png" alt="external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo"/>
 </a>
   
 <a href="https://www.instagram.com/Nipun Jayawardhana" target="_blank">
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/>
+  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/>
 </a>
 </a>
 <a href="https://www.youtube.com/channel/UCfOBFQuknyEy183Gt4R_Qig" target="_blank">
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube-play"/>
+  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/youtube-play.png" alt="youtube-play"/>
 </a>
 <a href="https://www.pinterest.com/nipunmadhushanka1999/" target="_blank">
-  <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/pinterest.png" alt="pinterest"/>
+  <img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/pinterest.png" alt="pinterest"/>
 </a>
 </div>
 <br>
